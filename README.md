@@ -11,5 +11,6 @@
 <meta name="google-signin-client_id" content="25453453556-sdfkjsbvjnshnvsnckn.apps.googleusercontent.com">
 ```
 + You can add features like displaying profile pic,google displayname and store them in database.
++ PS: It's boring to add CSS so..
 + Pull requests are always welcome.
 
